@@ -1,16 +1,16 @@
 public class Tag
     {
         //position
-        public int TaginX1 { get; set; }
-        public int TaginY1 { get; set; }
+        public static int TaginX1 { get; set; }
+        public static int TaginY1 { get; set; }
 
-        public int TaginZ1 { get; set; }
+        public static int TaginZ1 { get; set; }
 
         //orientation
-        public double TagOrientX1 { get; set; }
-        public double TagOrientY1 { get; set; }
+        public static double TagOrientX1 { get; set; }
+        public static double TagOrientY1 { get; set; }
 
-        public double TagOrientZ1 { get; set; }
+        public static double TagOrientZ1 { get; set; }
 
 
 

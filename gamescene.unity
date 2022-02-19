@@ -5175,19 +5175,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2db7c903902cce4e99d572df474482e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  brokerAddress: localhost
-  brokerPort: 1883
-  isEncrypted: 0
-  connectionDelay: 500
-  timeoutOnConnection: 30000
-  autoConnect: 0
-  mqttUserName: 
-  mqttPassword: 
-  brokerHostname: 172.30.4.44
-  brokerPort: 1883
-  userName: test
-  password: test
-  certificate: {fileID: 0}
 --- !u!4 &1299976666
 Transform:
   m_ObjectHideFlags: 0
